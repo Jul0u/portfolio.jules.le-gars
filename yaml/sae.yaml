@@ -1,0 +1,11 @@
+- code: SAE 1.01
+  titre: Étude d'exécution d’un bâtiment
+  description: Analyse structurelle, modélisation 3D, lecture de plan et organisation du chantier.
+  livrable: "livrables/SAE 1.01/Dossier.pdf"
+  image: "images/SAE/sae1.jpg"
+
+- code: SAE 1.02
+  titre: Réalisation de travaux publics
+  description: Étude technique d’un passage inférieur à portique ouvert, méthode de construction, matériaux et coffrage.
+  livrable: "livrables/SAE 1.02/Présentation.pdf"
+  image: "images/SAE/sae2.jpg"
