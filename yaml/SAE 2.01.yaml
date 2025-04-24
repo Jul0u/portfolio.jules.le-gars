@@ -1,0 +1,44 @@
+sae:
+  affichage_rapide:
+    code: "SAÉ 2.01"
+    resume: "Étude d’aménagement d’un local artisanal : plans, visuels 3D, notice descriptive et chiffrage."
+
+  affichage_developpe:
+    intitule: "Projet d’aménagement de bâtiment – Cellule A9 Espace Six Croix"
+    etudiant: "Jules LE GARS (en groupe avec Briac RAULT, Arthur FAGOUR, Gurvan HEGRON)"
+    periode: "Semestre 2 – Année 2024-2025"
+
+    livrables:
+      - "Rapport complet d’étude d’aménagement"
+      - "Plans 2D annotés et coupe A-A"
+      - "Visuels 3D des aménagements"
+      - "Notice descriptive des travaux par lots"
+      - "Quantitatif et chiffrage via Batiprix"
+
+    objectif:
+      competence_ciblee: "Représenter des solutions techniques de tout ou partie d’un projet de bâtiment"
+      apprentissages_critiques:
+        - "Analyser des plans, coupes et détails techniques"
+        - "Décrire les technologies des bâtiments"
+        - "Produire des représentations 2D et 3D conformes aux normes"
+        - "Proposer un aménagement conforme aux besoins d’un client"
+
+    competences_mobilisees:
+      UE11 - Solutions techniques en bâtiment:
+        - ressource: "R2.06 – Dessin, DAO et représentation technique"
+          niveau_maitrise: 3
+          justification: >
+            Réalisation de plans 2D (étages + coupe), d’un plan masse, et de modélisations 3D de l’aménagement
+            de la cellule A9, dans un cadre client simulé.
+
+        - ressource: "R2.07 – Construction, enveloppe et second œuvre"
+          niveau_maitrise: 2
+          justification: >
+            Rédaction d’une notice descriptive par lot (cloison, doublage, sol, menuiserie, peinture),
+            dimensionnement des parois, choix techniques, et vérification des performances thermiques.
+
+    bilan: >
+      Cette SAÉ a représenté une mise en situation complète de réponse à un appel d’offre client. Elle m’a permis de travailler en
+      équipe sur toutes les étapes de l’aménagement d’un local artisanal : analyse du besoin, production de plans, choix de solutions
+      techniques, chiffrage précis via Batiprix. J’ai particulièrement apprécié la complémentarité entre DAO, descriptif technique
+      et quantitatif économique. Cette expérience m’a préparé à des missions concrètes de bureau d’études et de maîtrise d’œuvre.

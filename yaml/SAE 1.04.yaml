@@ -1,0 +1,46 @@
+sae:
+  affichage_rapide:
+    code: "SAÉ 1.04"
+    resume: "Dimensionnement d’un réseau de plomberie et ventilation pour un appartement collectif (EFS + VMC)."
+
+  affichage_developpe:
+    intitule: "Projet réseaux de fluides"
+    etudiant: "Jules LE GARS"
+    periode: "Semestre 1 – Année 2023-2024"
+
+    livrables:
+      - "Rapport complet de dimensionnement (PDF)"
+      - "Fichier Excel de calculs"
+      - "Schéma DAO des réseaux EFS et VMC (AutoCAD)"
+
+    objectif:
+      competence_ciblee: "Élaborer des solutions techniques en plomberie et aéraulique pour un bâtiment collectif."
+      apprentissages_critiques:
+        - "Analyser un CCTP et des plans pour extraire les données utiles"
+        - "Calculer les débits et dimensionner les conduites (EFS, VMC)"
+        - "Réaliser les schémas de principe en DAO"
+
+    competences_mobilisees:
+      UE15 - Suivi technique d’un ouvrage:
+        - ressource: "R1.11 – Réseaux de fluides"
+          niveau_maitrise: 3
+          justification: >
+            Calcul complet des débits en eau froide sanitaire (EFS) pour l’appartement 2.03,
+            dimensionnement de la colonne montante, étude de pression disponible,
+            et vérification de conformité aux exigences (≥ 1 bar).
+
+        - ressource: "R1.10 – DAO et représentation graphique"
+          niveau_maitrise: 2
+          justification: >
+            Réalisation sur AutoCAD des schémas filaires des réseaux hydrauliques et aérauliques,
+            intégrant les débits, modules d’entrées d’air, extracteurs, conduits, etc.
+
+    bilan: >
+      Cette SAÉ m’a permis de prendre en main le dimensionnement technique d’un réseau de plomberie et de ventilation.
+      L’analyse des documents m’a appris à identifier les bonnes données dans un CCTP et à suivre une logique de calcul
+      rigoureuse jusqu’à la vérification finale.
+
+      La partie EFS m’a montré l’importance des pressions disponibles et du respect des règles de simultanéité dans les calculs.
+      La partie VMC m’a confronté à la notion de perte de charge et à l’application des DTU. Le travail DAO a complété l’ensemble
+      en me permettant de produire une représentation technique synthétique et claire.
+      Je ressors de cette SAÉ plus autonome et mieux préparé à la modélisation de réseaux techniques.

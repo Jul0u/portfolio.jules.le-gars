@@ -1,0 +1,25 @@
+entreprise:
+  nom: "Sixense Engineering – Agence Ouest (Vertou)"
+  localisation: "Vertou, France"
+  secteur: "Ingénierie des structures et infrastructures"
+  type: "Entreprise internationale"
+  specialisation: >
+    Expertise en surveillance, instrumentation et auscultation d’ouvrages.
+    Interventions sur des structures variées : ponts, bâtiments, tunnels.
+
+  activites:
+    - "Inspection et diagnostic de structures"
+    - "Instrumentation sur site (capteurs, suivi temps réel)"
+    - "Mesures et analyses comportementales"
+    - "Modélisation numérique des données collectées"
+    - "Prévention des risques et maintenance prédictive"
+
+  objectifs:
+    - "Assurer la sécurité des ouvrages"
+    - "Contribuer à leur durabilité"
+    - "Optimiser la gestion du patrimoine bâti"
+
+  approche: >
+    Les données, issues d’examens visuels, d’inspections détaillées ou de capteurs automatisés,
+    sont traitées par des outils numériques performants pour diagnostiquer l’état de santé des structures,
+    anticiper leur évolution et recommander des actions correctives.

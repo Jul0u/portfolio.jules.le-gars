@@ -1,0 +1,52 @@
+sae:
+  affichage_rapide:
+    code: "SAÉ 1.02"
+    resume: "Rédaction de modes opératoires et analyse technique pour la réalisation d’un ouvrage hydraulique type PIPO."
+
+  affichage_developpe:
+    intitule: "Projet d’ouvrage d’art – Ouvrage hydraulique du Verger"
+    etudiant: "Jules LE GARS"
+    periode: "Semestre 1 – Année 2023-2024"
+
+    livrables:
+      - "Compte-rendu complet (PDF, 17 pages) incluant les modes opératoires, analyses et plan"
+      - "Fiche de synthèse de l’analyse technique du coffrage du pied droit Est"
+      - "Tableau de commande du matériel Doka"
+      - "Plan AutoCAD 3 vues du piédroit Est et murs en retour (face, dessus, gauche)"
+
+    objectif:
+      competence_ciblee: "Élaborer des solutions techniques de tout ou partie d’un projet de Travaux Publics."
+      apprentissages_critiques:
+        - "Décrire différents procédés et technologies de TP"
+        - "Analyser et produire des plans et des détails techniques d’ouvrages"
+        - "Proposer des solutions techniques adaptées aux contraintes du projet"
+
+    competences_mobilisees:
+      UE12 - Solutions techniques en Travaux Publics:
+        - ressource: "R1.08 – Mode opératoire et analyse constructive"
+          niveau_maitrise: 3
+          justification: >
+            Rédaction complète des modes opératoires de la dalle de transition et du tablier avec phasage détaillé,
+            contrôle qualité, matériels et techniques de mise en œuvre.
+        - ressource: "R1.09 – Lecture de plans et documentation technique"
+          niveau_maitrise: 2
+          justification: >
+            Analyse des documents techniques Doka pour le coffrage du pied droit (dimensions, panneaux, ancrages, etc.)
+            et justification du matériel à utiliser.
+        - ressource: "R1.10 – DAO et représentation graphique"
+          niveau_maitrise: 2
+          justification: >
+            Réalisation sur AutoCAD d’un plan 3 vues du piédroit Est avec murs en retour selon les normes de dessin.
+
+    bilan: >
+      Cette SAÉ m’a permis d’explorer concrètement les techniques de construction d’un ouvrage d’art.
+      Rédiger des modes opératoires m’a aidé à structurer ma pensée de chantier : enchaînement logique des tâches,
+      organisation, contraintes et sécurité.
+
+      L’analyse technique du coffrage m’a demandé rigueur et méthode pour justifier chaque matériel utilisé.
+      J’ai compris l’intérêt des notices techniques dans la préparation de chantier, et pris conscience
+      des enjeux de sécurité et de logistique associés.
+
+      Le travail en autonomie sur AutoCAD pour produire un plan précis m’a permis de consolider mes bases,
+      même si je dois encore progresser dans le maniement rapide des outils de DAO.
+      Cette SAÉ m’a donné envie de m’impliquer davantage dans les phases d’étude de méthodes en bureau d’études.

@@ -1,0 +1,40 @@
+sae:
+  affichage_rapide:
+    code: "SAÉ 1.03"
+    resume: "Modélisation et dimensionnement d’un plancher bois (solives, poutres, poteaux) à partir des charges appliquées."
+
+  affichage_developpe:
+    intitule: "Modélisation d’un élément structurel simple et de son chargement"
+    etudiant: "Jules LE GARS"
+    periode: "Semestre 1 – Année 2023-2024"
+
+    livrables:
+      - "Rapport complet (PDF) de modélisation et de calculs"
+      - "Diagrammes N, V, M pour solives types 1 à 4"
+      - "Étude complète de la poutre BLC et du poteau P1"
+      - "Vérification de la pression au sol"
+
+    objectif:
+      competence_ciblee: "Modéliser le comportement mécanique d’un ouvrage simple soumis à des actions statiques."
+      apprentissages_critiques:
+        - "Évaluer les charges appliquées à une structure"
+        - "Tracer les schémas mécaniques et les diagrammes d’efforts"
+        - "Vérifier la sécurité d’une structure par le calcul (ELU et ELS)"
+
+    competences_mobilisees:
+      UE13 - Dimensionnement des ouvrages:
+        - ressource: "R1.07 – Mécanique des structures"
+          niveau_maitrise: 3
+          justification: >
+            Calcul des charges, détermination des efforts internes (N, V, M), vérification des appuis et des moments fléchissants
+            pour chaque élément : solives, poutres BLC, poteau et massif.
+
+    bilan: >
+      Cette SAÉ m’a permis de mettre en œuvre les outils de dimensionnement vus en cours pour une structure complète bois.
+      J’ai apprécié le lien entre modélisation mécanique et justification structurelle : chaque effort, chaque appui se traduit en
+      un calcul précis. Le travail sur les solives m’a aidé à comprendre l’impact des charges réparties et ponctuelles,
+      tandis que l’étude de la poutre BLC m’a permis de pratiquer des méthodes analytiques complémentaires.
+
+      Le plus formateur a été la vérification finale de la pression au sol au niveau du massif. Cette étape m’a permis de relier
+      les efforts internes à une problématique réelle de terrain : la capacité portante. Je me sens désormais plus à l’aise
+      pour modéliser une structure de A à Z, et conscient de l’importance d’une modélisation claire et progressive.

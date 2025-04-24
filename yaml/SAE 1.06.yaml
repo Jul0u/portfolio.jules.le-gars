@@ -1,0 +1,44 @@
+sae:
+  affichage_rapide:
+    code: "SAÉ 1.06"
+    resume: "Réalisation d’un état des lieux complet d’une salle de TD : relevé, analyse de l’existant, audit de confort."
+
+  affichage_developpe:
+    intitule: "État des lieux d’un ouvrage existant – Salle 1B035"
+    etudiant: "Jules LE GARS"
+    periode: "Semestre 1 – Année 2023-2024"
+
+    livrables:
+      - "Rapport d’état des lieux complet (PDF)"
+      - "Tableau structuré de l’état des ouvrages"
+      - "Rapport photographique légendé"
+      - "Audit confort thermique, acoustique, visuel, QAI"
+      - "Plans de la salle (vue en plan et coupes – réalisés séparément)"
+
+    objectif:
+      competence_ciblee: "Piloter techniquement un ouvrage tout au long de sa vie"
+      apprentissages_critiques:
+        - "Caractériser l’environnement d’un ouvrage existant"
+        - "Identifier les matériaux, équipements et états de fonctionnement"
+        - "Collecter, organiser et analyser des données techniques"
+        - "Évaluer la conformité d’une salle selon plusieurs critères de confort"
+
+    competences_mobilisees:
+      UE15 - Suivi technique d’un ouvrage:
+        - ressource: "R1.14 – Pathologie et confort"
+          niveau_maitrise: 3
+          justification: >
+            Réalisation complète d’un audit de confort (thermique, acoustique, visuel, QAI) selon les normes en vigueur,
+            avec mesures in situ et interprétation critique.
+
+        - ressource: "R1.10 – DAO et représentation graphique"
+          niveau_maitrise: 2
+          justification: >
+            Relevé des dimensions et production d’un dossier de plans (plan, coupes) clair, légendé et conforme aux règles du dessin technique.
+
+    bilan: >
+      Cette SAÉ m’a offert une vraie mise en situation professionnelle en tant que membre d’une équipe de maîtrise d’œuvre.
+      J’ai appris à organiser un relevé complet, identifier les matériaux en place et produire des plans techniques détaillés.
+      L’audit de confort m’a permis de croiser des données mesurées et normatives pour évaluer la conformité de la salle.
+      J’ai particulièrement apprécié le lien direct entre les relevés terrain, les normes et les propositions concrètes d’amélioration.
+      Une expérience riche pour toute future mission de diagnostic ou de réhabilitation.

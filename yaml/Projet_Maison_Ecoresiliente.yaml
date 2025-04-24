@@ -1,0 +1,32 @@
+projet:
+  titre: "Maison Écorésiliente"
+  type: "Projet personnel"
+  accroche: "Une maison autonome en cœur de ville, pensée pour durer, conçue pour inspirer."
+  
+  description_longue: >
+    Je me suis lancé dans la conception complète d’une maison individuelle fictive, avec une idée claire en tête :
+    créer un lieu de vie autonome, durable et ancré dans son époque. J’ai voulu concevoir une maison à la fois sobre
+    et ambitieuse, qui allie esthétique contemporaine et intelligence constructive.
+    L’ossature bois, le bardage mixte bois/ardoise et la toiture terrasse végétalisée forment le socle d’un projet
+    résolument tourné vers la résilience.
+
+    À travers ce projet, je m’interroge sur ce que doit être l’habitat de demain. J’explore des solutions concrètes :
+    optimisation de l’orientation, récupération des eaux pluviales, autonomie énergétique via les énergies renouvelables,
+    ventilation naturelle, choix de matériaux locaux et biosourcés. Tout est pensé pour maximiser les performances
+    sans sacrifier la simplicité ni le confort.
+
+    Cette maison, je l’ai pensée comme un manifeste personnel. Elle n’est pas utopique, elle est juste exigeante.
+
+  caracteristiques:
+    - "Ossature bois"
+    - "Bardage mixte bois/ardoise"
+    - "Toiture terrasse végétalisée"
+    - "Orientation bioclimatique"
+    - "Autonomie énergétique (solaire, récupération eau de pluie)"
+    - "Matériaux biosourcés et locaux"
+    - "Ventilation naturelle"
+
+  objectifs:
+    - "Explorer l’habitat de demain"
+    - "Tester des solutions de résilience urbaine"
+    - "Allier performance et simplicité dans un cadre contemporain"
